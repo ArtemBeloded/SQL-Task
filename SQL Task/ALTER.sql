@@ -1,0 +1,1 @@
+ALTER TABLE [Flower] ADD [Latin_Name] NVARCHAR(20) NULL;
